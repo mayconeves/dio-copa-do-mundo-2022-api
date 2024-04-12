@@ -1,0 +1,482 @@
+[
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Al Bayt Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-bayt-stadium.jpg"
+    },
+    "team1": "QA",
+    "team2": "EC",
+    "date": "2022-11-20T19:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Al Thumama Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-thumama-stadium.jpg"
+    },
+    "team1": "SN",
+    "team2": "NL",
+    "date": "2022-11-21T13:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Khalifa International Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/khalifa_stadium.jpg"
+    },
+    "team1": "GB",
+    "team2": "IR",
+    "date": "2022-11-21T16:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Ahmad Bin Ali Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/ahmad-bin-ali-stadium.jpeg"
+    },
+    "team1": "US",
+    "team2": "GB",
+    "date": "2022-11-21T22:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Lusail Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/lusali-stadium.png"
+    },
+    "team1": "AR",
+    "team2": "SA",
+    "date": "2022-11-22T13:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Stadium 974",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/974-stadium.png"
+    },
+    "team1": "MX",
+    "team2": "PL",
+    "date": "2022-11-22T19:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Education City Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/education-city-stadium.jpg"
+    },
+    "team1": "DK",
+    "team2": "TN",
+    "date": "2022-11-22T16:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Al Janoub Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-janoub-stadium.jpg"
+    },
+    "team1": "FR",
+    "team2": "AU",
+    "date": "2022-11-22T22:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Al Bayt Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-bayt-stadium.jpg"
+    },
+    "team1": "MA",
+    "team2": "HR",
+    "date": "2022-11-23T13:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Khalifa International Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/khalifa_stadium.jpg"
+    },
+    "team1": "DE",
+    "team2": "JP",
+    "date": "2022-11-23T16:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Al Thumama Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-thumama-stadium.jpg"
+    },
+    "team1": "ES",
+    "team2": "CR",
+    "date": "2022-11-23T19:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Ahmad Bin Ali Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/ahmad-bin-ali-stadium.jpeg"
+    },
+    "team1": "BE",
+    "team2": "CA",
+    "date": "2022-11-23T22:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Lusail Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/lusali-stadium.png"
+    },
+    "team1": "BR",
+    "team2": "RS",
+    "date": "2022-11-24T22:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Stadium 974",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/974-stadium.png"
+    },
+    "team1": "PT",
+    "team2": "GH",
+    "date": "2022-11-24T19:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Education City Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/education-city-stadium.jpg"
+    },
+    "team1": "UY",
+    "team2": "KR",
+    "date": "2022-11-24T16:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Al Janoub Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-janoub-stadium.jpg"
+    },
+    "team1": "CH",
+    "team2": "CM",
+    "date": "2022-11-24T13:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Al Bayt Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-bayt-stadium.jpg"
+    },
+    "team1": "GB",
+    "team2": "US",
+    "date": "2022-11-25T22:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Al Thumama Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-thumama-stadium.jpg"
+    },
+    "team1": "NL",
+    "team2": "EC",
+    "date": "2022-11-25T19:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Khalifa International Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/khalifa_stadium.jpg"
+    },
+    "team1": "QA",
+    "team2": "SN",
+    "date": "2022-11-25T16:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Ahmad Bin Ali Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/ahmad-bin-ali-stadium.jpeg"
+    },
+    "team1": "GB",
+    "team2": "IR",
+    "date": "2022-11-25T13:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Lusail Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/lusali-stadium.png"
+    },
+    "team1": "AR",
+    "team2": "MX",
+    "date": "2022-11-26T22:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Stadium 974",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/974-stadium.png"
+    },
+    "team1": "FR",
+    "team2": "DK",
+    "date": "2022-11-26T19:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Education City Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/education-city-stadium.jpg"
+    },
+    "team1": "PL",
+    "team2": "SA",
+    "date": "2022-11-26T16:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Al Janoub Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-janoub-stadium.jpg"
+    },
+    "team1": "TN",
+    "team2": "AU",
+    "date": "2022-11-26T13:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Al Bayt Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-bayt-stadium.jpg"
+    },
+    "team1": "ES",
+    "team2": "DE",
+    "date": "2022-11-27T22:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Khalifa International Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/khalifa_stadium.jpg"
+    },
+    "team1": "HR",
+    "team2": "CA",
+    "date": "2022-11-27T19:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Al Thumama Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-thumama-stadium.jpg"
+    },
+    "team1": "BE",
+    "team2": "MA",
+    "date": "2022-11-27T16:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Ahmad Bin Ali Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/ahmad-bin-ali-stadium.jpeg"
+    },
+    "team1": "JP",
+    "team2": "CR",
+    "date": "2022-11-27T13:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Lusail Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/lusali-stadium.png"
+    },
+    "team1": "PT",
+    "team2": "UY",
+    "date": "2022-11-28T22:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Stadium 974",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/974-stadium.png"
+    },
+    "team1": "BR",
+    "team2": "CH",
+    "date": "2022-11-28T19:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Education City Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/education-city-stadium.jpg"
+    },
+    "team1": "KR",
+    "team2": "GH",
+    "date": "2022-11-28T16:00:00Z"
+  },
+  {
+    "name": "2ª RODADA",
+    "stadium": {
+      "name": "Al Janoub Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-janoub-stadium.jpg"
+    },
+    "team1": "CM",
+    "team2": "RS",
+    "date": "2022-11-28T13:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Al Bayt Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-bayt-stadium.jpg"
+    },
+    "team1": "NL",
+    "team2": "QA",
+    "date": "2022-11-29T18:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Al Thumama Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-thumama-stadium.jpg"
+    },
+    "team1": "EC",
+    "team2": "SN",
+    "date": "2022-11-29T18:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Khalifa International Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/khalifa_stadium.jpg"
+    },
+    "team1": "IR",
+    "team2": "US",
+    "date": "2022-11-29T22:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Ahmad Bin Ali Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/ahmad-bin-ali-stadium.jpeg"
+    },
+    "team1": "GB",
+    "team2": "GB",
+    "date": "2022-11-29T22:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Lusail Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/lusali-stadium.png"
+    },
+    "team1": "SA",
+    "team2": "MX",
+    "date": "2022-11-30T22:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Stadium 974",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/974-stadium.png"
+    },
+    "team1": "PL",
+    "team2": "AR",
+    "date": "2022-11-30T22:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Education City Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/education-city-stadium.jpg"
+    },
+    "team1": "TN",
+    "team2": "FR",
+    "date": "2022-11-30T18:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Al Janoub Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-janoub-stadium.jpg"
+    },
+    "team1": "AU",
+    "team2": "DK",
+    "date": "2022-11-30T18:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Al Bayt Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-bayt-stadium.jpg"
+    },
+    "team1": "CR",
+    "team2": "DE",
+    "date": "2022-12-01T22:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Khalifa International Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/khalifa_stadium.jpg"
+    },
+    "team1": "JP",
+    "team2": "ES",
+    "date": "2022-12-01T22:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Al Thumama Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-thumama-stadium.jpg"
+    },
+    "team1": "CA",
+    "team2": "MA",
+    "date": "2022-12-01T18:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Ahmad Bin Ali Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/ahmad-bin-ali-stadium.jpeg"
+    },
+    "team1": "HR",
+    "team2": "BE",
+    "date": "2022-12-01T18:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Lusail Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/lusali-stadium.png"
+    },
+    "team1": "CM",
+    "team2": "BR",
+    "date": "2022-12-02T22:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Stadium 974",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/974-stadium.png"
+    },
+    "team1": "RS",
+    "team2": "CH",
+    "date": "2022-12-02T22:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Education City Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/education-city-stadium.jpg"
+    },
+    "team1": "KR",
+    "team2": "PT",
+    "date": "2022-12-02T18:00:00Z"
+  },
+  {
+    "name": "3ª RODADA",
+    "stadium": {
+      "name": "Al Janoub Stadium",
+      "image": "https://raw.githubusercontent.com/mayconeves/dio-copa-do-mundo-2022-api/main/stadium/al-janoub-stadium.jpg"
+    },
+    "team1": "GH",
+    "team2": "UY",
+    "date": "2022-12-02T18:00:00Z"
+  }
+]
